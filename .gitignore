@@ -1,0 +1,8 @@
+.env
+/.idea
+/vendor
+/.vscode
+/node_modules
+npm-debug.log
+yarn-error.log
+appcookie.txt
